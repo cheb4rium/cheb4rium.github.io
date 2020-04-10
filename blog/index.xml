@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Cheba</title>
@@ -9,6 +9,16 @@
     
 	<atom:link href="https://cheb4rium.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The peeler</title>
+      <link>https://cheb4rium.github.io/blog/thepeeler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cheb4rium.github.io/blog/thepeeler/</guid>
+      <description>10 Apr 2020
+So there I was, standing in the middle of a shop - an appliance kind of store, homewares, where you go to buy towels, maybe a vacuum cleaner. There I was standing in between the isles, looking at the range of peelers. You know, the potato kind of peelers. And I&amp;rsquo;m standing there, looking at the whole shelf of these peeling devices, all in slightly different shapes, features and functions, not knowing which one to pick up and analysing what am I doing thinking this long about a peeler!</description>
+    </item>
     
   </channel>
 </rss>
